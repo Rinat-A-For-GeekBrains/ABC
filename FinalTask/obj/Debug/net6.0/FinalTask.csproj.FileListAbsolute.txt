@@ -1,0 +1,15 @@
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.exe
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.dll
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.dll
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+E:\Users\Ринат\OneDrive\Документы\GeekBrains\SpecializationBlockFinalTask\FinalTask\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll
