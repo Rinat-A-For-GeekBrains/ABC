@@ -20,7 +20,7 @@ void array(string[] stringArray)
         stringArray[i] = Console.ReadLine();
     }
 }
-string[] symbol(string[] stringArray)   //метод считает количество элементов с длиной менее 3-х символов
+string[] symbol(string[] stringArray)   //метод считает количество элементов с длиной менее 3-х символов включительно
 {
     int n = 0;
     for (int i = 0; i < stringArray.Length; i++)
@@ -41,7 +41,7 @@ string[] symbol(string[] stringArray)   //метод считает количе
     return rezult;
 }
 
-void printA(string[] stringArray) // Функция выводит массив на печать
+void printArray(string[] stringArray) // Функция выводит массив на печать
 {
     Console.Write("[");
     for (int i = 0; i < stringArray.Length; i++)
@@ -52,4 +52,4 @@ void printA(string[] stringArray) // Функция выводит массив 
 }
 
 array(stringArray);
-printA(symbol(stringArray));
+printArray(symbol(stringArray));
