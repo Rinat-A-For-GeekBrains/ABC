@@ -30,7 +30,7 @@ string[] symbol(string[] stringArray)   //метод считает количе
     }
     string[] rezult = new string[n]; // формирует новый массив с количеством посчитанных элементов
     int j = 0;
-    for (int i = 0; i < stringArray.Length; i++)
+    for (int i = 0; i < stringArray.Length; i++) // заполнение нового массива элементами, удовлетворяющими условию
     {
         if (stringArray[i].Length <= 3)
         {
