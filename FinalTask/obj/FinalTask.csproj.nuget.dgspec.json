@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\FinalTask.csproj": {}
+    "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\FinalTask\\FinalTask.csproj": {}
   },
   "projects": {
-    "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\FinalTask.csproj": {
+    "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\FinalTask\\FinalTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\FinalTask.csproj",
+        "projectUniqueName": "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\FinalTask\\FinalTask.csproj",
         "projectName": "FinalTask",
-        "projectPath": "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\FinalTask.csproj",
+        "projectPath": "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\FinalTask\\FinalTask.csproj",
         "packagesPath": "C:\\Users\\Ринат\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\obj\\",
+        "outputPath": "E:\\Users\\Ринат\\OneDrive\\Документы\\GeekBrains\\SpecializationBlockFinalTask\\FinalTask\\FinalTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ринат\\AppData\\Roaming\\NuGet\\NuGet.Config"
